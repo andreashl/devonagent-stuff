@@ -11,9 +11,9 @@
 	<key>EncodingUrl</key>
 	<string>UTF-8</string>
 	<key>EngineNextUrl</key>
-	<string>http://www.oep.no/search/result.html?contentSupplier=all&amp;month=all&amp;searchText=_agentQuery_&amp;searchType=simple&amp;period=lastMonth&amp;start=_agentOffset_</string>
+	<string>http://www.oep.no/search/result.html?contentSupplier=all&amp;searchText=_agentQuery_&amp;start=_agentOffset_</string>
 	<key>EngineUrl</key>
-	<string>http://www.oep.no/search/result.html?searchText=_agentQuery_&amp;contentSupplier=all&amp;searchType=simple&amp;period=lastMonth&amp;month=all</string>
+	<string>http://www.oep.no/search/result.html?contentSupplier=all&amp;searchText=_agentQuery_</string>
 	<key>Identifier</key>
 	<string>com.andreaslunde.oep.plugin</string>
 	<key>Info</key>
