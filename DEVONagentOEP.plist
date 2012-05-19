@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateEnd</key>
+	<string>&lt;/td&gt;</string>
+	<key>DateStart</key>
+	<string>&lt;th class="noLeftBorder"&gt;Dokumentdato:&lt;</string>
+	<key>Description</key>
+	<string>Søk i Elektronisk Offentlig Postjournal</string>
+	<key>EncodingUrl</key>
+	<string>UTF-8</string>
+	<key>EngineNextUrl</key>
+	<string>http://www.oep.no/search/result.html?contentSupplier=all&amp;month=all&amp;searchText=_agentQuery_&amp;searchType=simple&amp;period=lastMonth&amp;start=_agentOffset_</string>
+	<key>EngineUrl</key>
+	<string>http://www.oep.no/search/result.html?searchText=_agentQuery_&amp;contentSupplier=all&amp;searchType=simple&amp;period=lastMonth&amp;month=all</string>
+	<key>Identifier</key>
+	<string>com.andreaslunde.oep.plugin</string>
+	<key>Info</key>
+	<string>OEP Plugin 2012 Andreas H. Lunde</string>
+	<key>Keyword</key>
+	<array>
+		<string>oep</string>
+	</array>
+	<key>LinksMatching</key>
+	<string>*oep.no/search/resultSingle.html?journalPostId=*</string>
+	<key>Name</key>
+	<string>OEP</string>
+	<key>OffsetPerPage</key>
+	<integer>10</integer>
+	<key>Operators</key>
+	<integer>27</integer>
+	<key>Start</key>
+	<string>00</string>
+	<key>TextEnd</key>
+	<string>&lt;/table&gt;</string>
+	<key>TextStart</key>
+	<string>&lt;table class="defaultTable"&gt;</string>
+	<key>TitleEnd</key>
+	<string>&lt;/title&gt;</string>
+	<key>TitleStart</key>
+	<string>&lt;title&gt;OEP -  - </string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
