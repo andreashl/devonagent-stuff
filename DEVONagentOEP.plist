@@ -20,7 +20,7 @@
 	<string>OEP Plugin 2012 Andreas H. Lunde</string>
 	<key>Keyword</key>
 	<array>
-		<string>oep</string>
+	<string>oep</string>
 	</array>
 	<key>LinksMatching</key>
 	<string>*oep.no/search/resultSingle.html?journalPostId=*</string>
