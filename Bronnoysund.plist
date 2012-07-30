@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Brønnøysund</string>
+	<key>Description</key>
+	<string>Søk i Brønnøysundregisterene</string>
+	<key>EncodingUrl</key>
+	<string>UTF-8</string>
+	<key>EngineUrl</key>
+	<string>http://w2.brreg.no/enhet/sok/treffliste.jsp?navn=_agentQuery_</string>
+	<key>Identifier</key>
+	<string>com.andreaslunde.brreg.plugin</string>
+	<key>Info</key>
+	<string>Brønnsund plugin 1.0 © 2012 Andreas H. Lunde</string>
+	<key>Keyword</key>
+	<array>
+		<string>brreg</string>
+	</array>
+	<key>LinksMatching</key>
+	<string>http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=*</string>
+	<key>TextEnd</key>
+	<string>&lt;br&gt;
+       Opplysningene over er bare et utvalg av de opplysningen Br&amp;oslash;nn&amp;oslash;ysundregistrene har om enheten du har
+          s&amp;oslash;kt p&amp;aring;. Ytterlige opplysninger er tilgjengelige b&amp;aring;de p&amp;aring; nett og papir.&lt;/p&gt;&lt;p&gt;
+&lt;ul&gt;</string>
+	<key>TextStart</key>
+	<string>&lt;!-- Her kommer dokumentet --&gt;</string>
+	<key>TitleEnd</key>
+	<string>&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;</string>
+	<key>TitleStart</key>
+	<string>&lt;b&gt;Navn/foretaksnavn: &lt;/b&gt;</string>
+	<key>PostScan</key>
+	<false/>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
