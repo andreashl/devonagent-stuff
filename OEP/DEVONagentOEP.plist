@@ -5,7 +5,7 @@
 	<key>DateEnd</key>
 	<string>&lt;/td&gt;</string>
 	<key>DateStart</key>
-	<string>&lt;th class="noLeftBorder"&gt;Dokumentdato:&lt;</string>
+	<string>&lt;th class=&quot;noLeftBorder&quot;&gt;Dokumentdato:&lt;</string>
 	<key>Description</key>
 	<string>Søk i Elektronisk Offentlig Postjournal</string>
 	<key>EncodingUrl</key>
@@ -17,10 +17,10 @@
 	<key>Identifier</key>
 	<string>com.andreaslunde.oep.plugin</string>
 	<key>Info</key>
-	<string>OEP Plugin 2012 Andreas H. Lunde</string>
+	<string>OEP Plugin 2012 © Andreas H. Lunde</string>
 	<key>Keyword</key>
 	<array>
-	<string>oep</string>
+		<string>oep</string>
 	</array>
 	<key>LinksMatching</key>
 	<string>*oep.no/search/resultSingle.html?journalPostId=*</string>
@@ -35,7 +35,7 @@
 	<key>TextEnd</key>
 	<string>&lt;/table&gt;</string>
 	<key>TextStart</key>
-	<string>&lt;table class="defaultTable"&gt;</string>
+	<string>&lt;table class=&quot;defaultTable&quot;&gt;</string>
 	<key>TitleEnd</key>
 	<string>&lt;/title&gt;</string>
 	<key>TitleStart</key>
